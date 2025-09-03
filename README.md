@@ -5,6 +5,6 @@ Supports addition, subtraction, multiplication, and division.
 
 ## How to Run
 1. Clone this repo
-2. Run `Test.py`
+2. Run `Calculator.py`
 3. Follow the instructions
 
