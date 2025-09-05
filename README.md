@@ -1,4 +1,4 @@
-# python Calculator
+# python Calculator (Mini project).
 
 A simple calculator built using Python functions.  
 Supports addition, subtraction, multiplication, and division.  
